@@ -3,4 +3,6 @@ osaka
 kyoto
 fukuoka
 miyagi
+hakata
+sendai
 fukushima
